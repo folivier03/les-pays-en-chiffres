@@ -1,1 +1,3 @@
-# My project
+#  Projet: Les pays en chiffres
+Utilisation du langage SQL pour créer et manipuler une base de données PostgreSql,
+La base de données est hébergée sur un saas ElephantSql
