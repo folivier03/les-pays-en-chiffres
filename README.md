@@ -14,8 +14,8 @@ La base de données est hébergée sur un saas ElephantSql
 * ouvrir pgAdmin et cliquer sur la base de données crée
 
 ## Installation
-L'exécution du code du fichier script.sql va permettre de:
-*  Créer la table "countries_2020" avec toute les colonnes
+L'exécution du code du fichier "script.sql" va permettre de:
+* Créer la table "countries_2020" avec toute les colonnes
 * Insérer les données dans la table "countries_2020"
 * Créer la fonction "get_country_proprieties(country_name)" avec un paramètre d'entrée "nom du pays" et qui nous retourne une table avec toutes les propriétés du pays
 * Créer la procédure "insert_country(new_country)" qui insert un nouveau pays
