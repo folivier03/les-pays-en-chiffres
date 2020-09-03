@@ -6,5 +6,5 @@ La base de données est hébergée sur un saas ElephantSql
 * Ouvrir une instance sur ElephantSql
 * installer pgAdmin
 
-# Etapes de développement du projet
+# Etapes du projet
 *Création de la base de données
