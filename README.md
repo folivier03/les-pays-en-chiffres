@@ -37,7 +37,7 @@ dans cet exemple le pays utilisé comme paramètre est  "Algeria
 
 * pour insérer le nouveau pays avec la procédure  "insert_country(new_country )", on utilise la requête:
 
-call insert_country('Dubai')
+call insert_country('Dubai');
 
 dans cet exemple le nouveau pays inséré est Dubai.
 
