@@ -23,7 +23,7 @@ L'exécution du code du fichier script.sql va permettre de:
 * Créer le trigger qui met à jour la colonne de la date d'insertion du nouveau pays
 * Créer la fonction qui va retourner les pays regroupés par 4 tranches de densité de population "get_country_tranche()"
 
-# Requêtes
+## Requêtes
 
 * pour afficher toutes les colonnes de la table, on utilise la requête:
 
